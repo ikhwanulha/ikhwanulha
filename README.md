@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikhwanulha
 - 👀 I’m newbie in programming
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on creating stuff that belongs to healthcare
 - 📫 ghostinvg@gmail.com
 どうぞよろしくね
